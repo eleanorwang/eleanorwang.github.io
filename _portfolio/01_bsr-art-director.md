@@ -4,7 +4,7 @@ title: ""
 excerpt: "some of my work as Art Director of the Berkeley Science Review"
 header:
 #   image: /assets/images/profile.jpg
-  teaser: /assets/images/portfolio/BSRiss49-cover_3x4.jpg
+  teaser: /assets/images/portfolio/BSRiss49-cover_3x2.jpg
 sidebar:
   - title: "Art Director"
    #  image: http://placehold.it/350x250
