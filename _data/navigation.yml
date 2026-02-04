@@ -1,0 +1,14 @@
+# main links
+main:
+  # - title: "Quick-Start"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "writing"
+    url: /writing/
+  - title: "design & illustration"
+    url: /design-illustration/
+  - title: "zines"
+    url: /zines/
+  - title: "about"
+    url: /about/
