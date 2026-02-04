@@ -4,7 +4,7 @@ title: ""
 excerpt: "scientific graphics, illustrations, and data visualization"
 header:
   # image: /assets/images/profile.jpg
-  teaser: /assets/images/portfolio/vocal-tract.jpg
+  teaser: /assets/images/portfolio/sci-graphics/vocal-tract.jpg
 # sidebar:
 #   - title: ""
 #    #  image: http://placehold.it/350x250
