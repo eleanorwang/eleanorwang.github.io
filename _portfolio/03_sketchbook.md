@@ -4,7 +4,7 @@ title: "" #sketchbook"
 excerpt: "miscellaneous drawings, paintings, and illustrations"
 header:
   # image: /assets/images/profile.jpg
-  teaser: assets/images/profile.jpg
+  teaser: /assets/images/portfolio/sketchbook/roadside-plants_5x4.jpg
 # sidebar:
 #   - title: "Role"
 #    #  image: http://placehold.it/350x250
@@ -25,8 +25,8 @@ gallery:
   - url: /assets/images/portfolio/sketchbook/taipei-corner.png
     image_path: /assets/images/portfolio/sketchbook/taipei-corner_5x4.png
     title: "(digital) Procreate"
-  - url: /assets/images/portfolio/sketchbook/sf-chinatown.png
-    image_path: /assets/images/portfolio/sketchbook/sf-chinatown_5x4.png
+  - url: /assets/images/portfolio/sketchbook/sf-chinatown.PNG
+    image_path: /assets/images/portfolio/sketchbook/sf-chinatown_5x4.PNG
     title: "(digital) Procreate"
   - url: /assets/images/portfolio/sketchbook/beef-noodles.jpg
     image_path: /assets/images/portfolio/sketchbook/beef-noodles_5x4.jpg
