@@ -3,15 +3,15 @@ layout: single
 title: ""
 excerpt: "scientific graphics, illustrations, and data visualization"
 header:
-  image: /assets/images/profile.jpg
+  # image: /assets/images/profile.jpg
   teaser: assets/images/profile.jpg
-sidebar:
-  - title: "Role"
-   #  image: http://placehold.it/350x250
-   #  image_alt: "logo"
-   #  text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+# sidebar:
+#   - title: ""
+#    #  image: http://placehold.it/350x250
+#    #  image_alt: "logo"
+#     text: ""
+#   # - title: "Responsibilities"
+#   #   text: ""
 # gallery:
 #   - url: /assets/images/unsplash-gallery-image-1.jpg
 #     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -23,4 +23,4 @@ sidebar:
 #     image_path: assets/images/unsplash-gallery-image-3-th.jpg
 #     alt: "placeholder image 3"
 ---
-words
+Here are some miscellaneous examples of scientific diagrams, graphics, and data visualizations that I've made.
