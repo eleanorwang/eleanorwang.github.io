@@ -35,7 +35,7 @@ gallery:
 ---
 <figure style="width: 200px; margin:20px" class="align-right">
   <img src="../assets/images/zines/ocean-microbiome-photo.jpg" alt="">
-  <!-- <figcaption>ocean microbiome mini-zine</figcaption> -->
+  <figcaption>ocean microbiome mini-zine</figcaption>
 </figure> 
 check out some free science zines on my [ko-fi](https://ko-fi.com/micronsizedbean) (*like my ocean microbiome zine*) or buy me a coffee if you like my work!
 
