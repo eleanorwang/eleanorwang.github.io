@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ""
-excerpt: "miscellaneous drawings, paintings, and illustrative projects (functionally a digital sketchbook)"
+excerpt: "scientific graphics, illustrations, and data visualization"
 header:
   image: /assets/images/profile.jpg
   teaser: assets/images/profile.jpg

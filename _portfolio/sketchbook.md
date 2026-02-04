@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "sketchbook"
 excerpt: "miscellaneous drawings, paintings, and illustrative projects (functionally a digital sketchbook)"
 header:
