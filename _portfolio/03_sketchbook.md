@@ -33,4 +33,4 @@ gallery:
     title: "(traditional) gouache on hot press watercolor paper"
 ---
 These pieces were all created using a variety of mediums, both digital and traditional!
-{% include gallery caption="you can see more of my casual illustrations, comics, and drawings on my instagram [@micronsized](https://www.instagram.com/micronsized/) but i have been less and less active on social media as a way to avoid having my data/work scraped... thank you for understanding!"%}
+{% include gallery caption="you can see more of my casual illustrations, comics, and drawings on my instagram [@micronsized](https://www.instagram.com/micronsized/) but i have been less and less active on social media as a way to avoid having my data/work scraped for generative AI... thank you for understanding!" %}
