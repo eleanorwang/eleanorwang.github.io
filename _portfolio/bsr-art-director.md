@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "art direction: berkeley science review"
+title: "" # art direction: berkeley science review"
 excerpt: "The Fall 2025 Issue of the Berkeley Science Review"
 header:
 #   image: /assets/images/profile.jpg
   teaser: /assets/images/portfolio/BSRiss49-cover_3x4.jpg
 sidebar:
-  - title: "Art Director"
+  - title: "" # Art Director"
    #  image: http://placehold.it/350x250
    #  image_alt: "logo"
     text: "Issues: 47 - 50, Fall 2024 - Spring 2026."
@@ -24,8 +24,6 @@ gallery:
     alt: "placeholder image 3"
 ---
 I started as a Designer for BSR in Spring 2023 before becoming Art Director. Alonside making scientific illustrations and enhanced data visualizations, I 
-
+{: style="text-align: justify;"}
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
-
-the pdf for this blah is available at blah
-details about my design process
+PDFs of the Berkeley Science Review are available [online](https://berkeleysciencereview.com/magazine-issues).
