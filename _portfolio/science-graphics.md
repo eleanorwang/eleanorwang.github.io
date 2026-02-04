@@ -1,5 +1,6 @@
 ---
-title: "another thing"
+layout: single
+title: ""
 excerpt: "miscellaneous drawings, paintings, and illustrative projects (functionally a digital sketchbook)"
 header:
   image: /assets/images/profile.jpg

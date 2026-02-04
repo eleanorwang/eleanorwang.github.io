@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ""
-excerpt: "Some of my work as Art Director of the Berkeley Science Review"
+excerpt: "some of my work as Art Director of the Berkeley Science Review"
 header:
 #   image: /assets/images/profile.jpg
   teaser: /assets/images/portfolio/BSRiss49-cover_3x4.jpg
@@ -13,11 +13,11 @@ sidebar:
   - title: "Designer"
     text: "Issues 44-50 (Spring 2023 - Spring 2026)"
 gallery:
-  - url: /assets/images/portfolio/BSRiss49-cover.jpg
-    image_path: /assets/images/portfolio/BSRiss49-cover.jpg
+  - url: /assets/images/portfolio/BSRiss47-cover.jpg
+    image_path: /assets/images/portfolio/BSRiss47-cover.jpg
     title: "The cover of the Fall 2025 Issue of the Berkeley Science Review."
-  - url: /assets/images/portfolio/BSRiss49-cover.jpg
-    image_path: /assets/images/portfolio/BSRiss49-cover.jpg
+  - url: /assets/images/portfolio/BSRiss48-cover.jpg
+    image_path: /assets/images/portfolio/BSRiss48-cover.jpg
     title: "The cover of the Fall 2025 Issue of the Berkeley Science Review."
   - url: /assets/images/portfolio/BSRiss49-cover.jpg
     image_path: /assets/images/portfolio/BSRiss49-cover.jpg
