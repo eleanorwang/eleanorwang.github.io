@@ -4,7 +4,7 @@ title: ""
 excerpt: "scientific graphics, illustrations, and data visualization"
 header:
   # image: /assets/images/profile.jpg
-  teaser: assets/images/profile.jpg
+  teaser: /assets/images/portfolio/vocal-tract.jpg
 # sidebar:
 #   - title: ""
 #    #  image: http://placehold.it/350x250
@@ -23,4 +23,4 @@ header:
 #     image_path: assets/images/unsplash-gallery-image-3-th.jpg
 #     alt: "placeholder image 3"
 ---
-Soon this page will have miscellaneous examples of scientific diagrams, graphics, and data visualizations that I've made.
+Soon this page will have miscellaneous examples of scientific diagrams, graphics, and data visualizations that I've made...
