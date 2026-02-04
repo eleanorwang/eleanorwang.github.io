@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "" #sketchbook"
-excerpt: "miscellaneous drawings, paintings, and illustrative projects (functionally a digital sketchbook)"
+excerpt: "miscellaneous drawings, paintings, and illustrations (functionally a digital sketchbook)"
 header:
   # image: /assets/images/profile.jpg
   teaser: assets/images/profile.jpg

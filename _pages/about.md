@@ -16,3 +16,5 @@ in addition to being a grad student, i'm also Art Director of the Berkeley Scien
 right now, the best way to reach me is by email at:
 
 eleanorwang [at] berkeley [dot] edu
+
+and if you missed it, [here's my cv](/assets/EleanorWang_CV_2026-01.pdf)
