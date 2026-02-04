@@ -9,3 +9,5 @@ entries_layout: grid
 classes: wide
 ---
 here are a few of my illustrative and design projects. please reach out if you have any questions or if there's something different you'd like to see! *please note that this page is an active work in progress...*
+
+**please do not replicate, use, or sell any of my work.**

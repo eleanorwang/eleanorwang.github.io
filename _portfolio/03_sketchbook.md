@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "" #sketchbook"
-excerpt: "miscellaneous drawings, paintings, and illustrations (functionally a digital sketchbook)"
+excerpt: "miscellaneous drawings, paintings, and illustrations"
 header:
   # image: /assets/images/profile.jpg
   teaser: assets/images/profile.jpg
@@ -13,15 +13,24 @@ header:
 #   - title: "Responsibilities"
 #     text: ""
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/portfolio/sketchbook/spiral-peel.JPEG
+    image_path: /assets/images/portfolio/sketchbook/spiral-peel_5x4.JPEG
+    title: "(traditional) gouache on hot press watercolor paper"
+  - url: /assets/images/portfolio/sketchbook/roadside-plants.jpg
+    image_path: /assets/images/portfolio/sketchbook/roadside-plants_5x4.jpg
+    title: "(digital) Procreate"
+  - url: /assets/images/portfolio/sketchbook/manzanita.jpg
+    image_path: /assets/images/portfolio/sketchbook/manzanita_5x4.jpg
+    title: "(traditional) ink brush pen, live sketch at Tilden Regional Park"
+  - url: /assets/images/portfolio/sketchbook/taipei-corner.png
+    image_path: /assets/images/portfolio/sketchbook/taipei-corner_5x4.png
+    title: "(digital) Procreate"
+  - url: /assets/images/portfolio/sketchbook/sf-chinatown.png
+    image_path: /assets/images/portfolio/sketchbook/sf-chinatown_5x4.png
+    title: "(digital) Procreate"
+  - url: /assets/images/portfolio/sketchbook/beef-noodles.jpg
+    image_path: /assets/images/portfolio/sketchbook/beef-noodles_5x4.jpg
+    title: "(traditional) gouache on hot press watercolor paper"
 ---
-words
-{% include gallery caption="These were the issues of BSR that I art directed. PDFs of the Berkeley Science Review are available [online](https://berkeleysciencereview.com/magazine-issues)." %}
+These pieces were all created using a variety of mediums, both digital and traditional!
+{% include gallery caption="you can see more of my casual illustrations, comics, and drawings on my instagram [@micronsized](https://www.instagram.com/micronsized/) but i have been less and less active on social media as a way to avoid having my data/work scraped... thank you for understanding!"%}
