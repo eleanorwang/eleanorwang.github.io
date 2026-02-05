@@ -32,12 +32,12 @@ gallery:
   - url: /assets/images/portfolio/editorial/wasted-issue1_cover.jpg
     image_path: /assets/images/portfolio/editorial/wasted-issue1_cover.jpg
     title: ""
-  - url: /assets/images/portfolio/editorial/DAndrea_feature_Spring2024_Page_1.jpg
-    image_path: /assets/images/portfolio/editorial/DAndrea_feature_Spring2024_Page_1.jpg
-    title: ""
-  - url: /assets/images/portfolio/editorial/msg_logo.jpg
-    image_path: /assets/images/portfolio/editorial/msg_logo.jpg
-    title: ""
+  # - url: /assets/images/portfolio/editorial/DAndrea_feature_Spring2024_Page_1.jpg
+  #   image_path: /assets/images/portfolio/editorial/DAndrea_feature_Spring2024_Page_1.jpg
+  #   title: ""
+  # - url: /assets/images/portfolio/editorial/msg_logo.jpg
+  #   image_path: /assets/images/portfolio/editorial/msg_logo.jpg
+  #   title: ""
 ---
 just a gallery of posters, logos, layouts, and things i've designed and illustrated!
 {% include gallery caption="I'm still slowly working on adding proper descriptions to each image in this gallery..." %}
