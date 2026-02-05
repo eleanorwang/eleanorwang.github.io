@@ -23,10 +23,10 @@ gallery:
     image_path: /assets/images/portfolio/sci-graphics/BSRiss44-feature_fig2.jpg
     title: ""
   - url: /assets/images/portfolio/sci-graphics/BSRiss44-feature_fig3.jpg
-    image_path: /assets/images/portfolio/sci-graphics/BSRiss44-feature_fig2.jpg
+    image_path: /assets/images/portfolio/sci-graphics/BSRiss44-feature_fig3.jpg
     title: ""
   - url: /assets/images/portfolio/sci-graphics/BSRiss44-feature_fig4.jpg
-    image_path: /assets/images/portfolio/sci-graphics/BSRiss44-feature_fig2.jpg
+    image_path: /assets/images/portfolio/sci-graphics/BSRiss44-feature_fig4.jpg
     title: ""
   - url: /assets/images/portfolio/sci-graphics/BSRiss48-feature_fig1.jpg
     image_path: /assets/images/portfolio/sci-graphics/BSRiss48-feature_fig1.jpg
@@ -35,10 +35,10 @@ gallery:
     image_path: /assets/images/portfolio/sci-graphics/BSRiss48-feature_fig2.jpg
     title: ""
   - url: /assets/images/portfolio/sci-graphics/BSRiss48-feature_fig3.jpg
-    image_path: /assets/images/portfolio/sci-graphics/BSRiss48-feature_fig2.jpg
+    image_path: /assets/images/portfolio/sci-graphics/BSRiss48-feature_fig3.jpg
     title: ""
   - url: /assets/images/portfolio/sci-graphics/BSRiss48-feature_fig4.jpg
-    image_path: /assets/images/portfolio/sci-graphics/BSRiss48-feature_fig2.jpg
+    image_path: /assets/images/portfolio/sci-graphics/BSRiss48-feature_fig4.jpg
     title: ""
 ---
 Soon this page will have miscellaneous examples of scientific diagrams, graphics, and data visualizations that I've made... I am, as they say, suffering from success (I've made too many things and it is a bit hard to organize it all).
