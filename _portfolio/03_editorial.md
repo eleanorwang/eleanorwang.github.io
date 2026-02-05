@@ -1,7 +1,8 @@
 ---
+permalink: /editorial/
 layout: single
-title: "miscellaneous" #sketchbook"
-excerpt: "miscellaneous drawings, paintings, and illustrations"
+title: "editorial" #sketchbook"
+excerpt: "illustrations, layouts, that are a little less technical"
 header:
   # image: /assets/images/profile.jpg
   teaser: /assets/images/portfolio/sketchbook/roadside-plants_5x4.jpg
@@ -32,5 +33,4 @@ gallery:
     image_path: /assets/images/portfolio/sketchbook/beef-noodles_5x4.jpg
     title: "(traditional) gouache on hot press watercolor paper"
 ---
-These pieces were all created using a variety of mediums, both digital and traditional!
-{% include gallery caption="you can see more of my casual illustrations, comics, and drawings on my instagram [@micronsized](https://www.instagram.com/micronsized/) but i have been less and less active on social media as a way to avoid having my data/work scraped for generative AI... thank you for understanding!" %}
+words...

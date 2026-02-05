@@ -50,3 +50,4 @@ gallery:
 Right now this page is just a compilation of miscellaneous examples of scientific diagrams, graphics, and data visualizations that I've made for different projects... I plan on showcasing them in a more organized form in the future, but I am, as some may say, suffering from success (I have so many projects that they've become quite difficult to document and organize). But I've got lots of experience with InDesign, Illustrator, and Photoshop, and have dabbled in other programs before. If you want to know if I can do something specifically, just ask!
 {: style="text-align: justify;"}
 {% include gallery caption="again, please don't replicate, use, or sell my work!" %}
+I'm slowly working on adding proper descriptions to each image in this gallery...
