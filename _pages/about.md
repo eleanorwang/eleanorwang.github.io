@@ -14,6 +14,6 @@ in addition to being a grad student, i'm also Art Director of the Berkeley Scien
 {: style="text-align: justify;"}
 
 currently the best way to reach me is by email at:
-eleanorwang [at] berkeley [dot] edu
+eleanorwang [at] berkeley [dot] edu and if you missed it, [here's my cv](/assets/EleanorWang_CV_2026-01.pdf)
 
-and if you missed it, [here's my cv](/assets/EleanorWang_CV_2026-01.pdf)
+in the future i'd like to add various resources to this page! things like: applying to fellowships (NSF GRFP, Barry Goldwater Scholarship, etc.), applying to grad school, design and illustration learning resources, science writing/policy stuff, and more...
