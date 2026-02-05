@@ -2,7 +2,7 @@
 permalink: /editorial/
 layout: single
 title: "editorial" #sketchbook"
-excerpt: "illustrations, layouts, that are a little less technical"
+excerpt: "illustrations, layouts, that are not as technical and more design-oriented"
 header:
   # image: /assets/images/profile.jpg
   teaser: /assets/images/portfolio/sketchbook/roadside-plants_5x4.jpg
@@ -33,4 +33,4 @@ gallery:
     image_path: /assets/images/portfolio/sketchbook/beef-noodles_5x4.jpg
     title: "(traditional) gouache on hot press watercolor paper"
 ---
-words...
+working on this at this very moment... (isn't that so funny)
