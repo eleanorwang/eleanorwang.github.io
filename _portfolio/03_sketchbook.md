@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "" #sketchbook"
+title: "miscellaneous" #sketchbook"
 excerpt: "miscellaneous drawings, paintings, and illustrations"
 header:
   # image: /assets/images/profile.jpg

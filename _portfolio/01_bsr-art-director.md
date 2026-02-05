@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ""
+title: "berkeley scirev"
 excerpt: "some of my work as Art Director of the Berkeley Science Review"
 header:
 #   image: /assets/images/profile.jpg
