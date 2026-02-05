@@ -1,8 +1,8 @@
 ---
-permalink: /sketchbook/
+permalink: /portfolio/sketchbook/
 layout: single
 title: "miscellaneous" #sketchbook"
-excerpt: "miscellaneous drawings, paintings, and illustrations"
+excerpt: "a mishmash of drawings, paintings, and illustrations"
 header:
   # image: /assets/images/profile.jpg
   teaser: /assets/images/portfolio/sketchbook/roadside-plants_5x4.jpg

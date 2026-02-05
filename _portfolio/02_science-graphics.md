@@ -1,4 +1,5 @@
 ---
+permalink: /portfolio/science-graphics/
 layout: single
 title: "science graphics"
 excerpt: "scientific graphics, illustrations, and data visualization"

@@ -1,8 +1,8 @@
 ---
-permalink: /editorial/
+permalink: /portfolio/editorial/
 layout: single
 title: "editorial" #sketchbook"
-excerpt: "illustrations, layouts, that are not as technical and more design-oriented"
+excerpt: "illustrations, layouts, that are less technical and more design-oriented"
 header:
   # image: /assets/images/profile.jpg
   teaser: /assets/images/portfolio/sketchbook/roadside-plants_5x4.jpg
