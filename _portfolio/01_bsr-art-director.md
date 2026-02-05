@@ -1,5 +1,5 @@
 ---
-permalink: /portfolio/bsr-art-dir/
+permalink: /design-illustration/bsr-art-dir/
 layout: single
 title: "berkeley scirev"
 excerpt: "some of my work as Art Director of the Berkeley Science Review"

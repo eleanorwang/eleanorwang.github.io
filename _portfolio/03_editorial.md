@@ -1,5 +1,5 @@
 ---
-permalink: /portfolio/editorial/
+permalink: /design-illustration/editorial/
 layout: single
 title: "editorial" #sketchbook"
 excerpt: "illustrations, layouts, that are less technical and more design-oriented"
@@ -14,23 +14,30 @@ header:
 #   - title: "Responsibilities"
 #     text: ""
 gallery:
-  - url: /assets/images/portfolio/sketchbook/spiral-peel.JPEG
-    image_path: /assets/images/portfolio/sketchbook/spiral-peel_5x4.JPEG
-    title: "(traditional) gouache on hot press watercolor paper"
-  - url: /assets/images/portfolio/sketchbook/roadside-plants.jpg
-    image_path: /assets/images/portfolio/sketchbook/roadside-plants_5x4.jpg
-    title: "(digital) Procreate"
-  - url: /assets/images/portfolio/sketchbook/manzanita.jpg
-    image_path: /assets/images/portfolio/sketchbook/manzanita_5x4.jpg
-    title: "(traditional) ink brush pen, live sketch at Tilden Regional Park"
-  - url: /assets/images/portfolio/sketchbook/taipei-corner.png
-    image_path: /assets/images/portfolio/sketchbook/taipei-corner_5x4.png
-    title: "(digital) Procreate"
-  - url: /assets/images/portfolio/sketchbook/sf-chinatown.PNG
-    image_path: /assets/images/portfolio/sketchbook/sf-chinatown_5x4.PNG
-    title: "(digital) Procreate"
-  - url: /assets/images/portfolio/sketchbook/beef-noodles.jpg
-    image_path: /assets/images/portfolio/sketchbook/beef-noodles_5x4.jpg
-    title: "(traditional) gouache on hot press watercolor paper"
+  - url: /assets/images/portfolio/editorial/2025_MSG-poster_FINAL.jpg
+    image_path: /assets/images/portfolio/editorial/2025_MSG-poster_FINAL.jpg
+    title: ""
+  - url: /assets/images/portfolio/editorial/BSRiss48-fullmag_final-web_pages_Page_02.jpg
+    image_path: /assets/images/portfolio/editorial/BSRiss48-fullmag_final-web_pages_Page_02.jpg
+    title: ""
+  - url: /assets/images/portfolio/editorial/BSRiss48-fullmag_final-web_pages_Page_10.jpg
+    image_path: /assets/images/portfolio/editorial/BSRiss48-fullmag_final-web_pages_Page_10.jpg
+    title: ""
+  - url: /assets/images/portfolio/editorial/BSRiss48-fullmag_final-web_pages_Page_34.jpg
+    image_path: /assets/images/portfolio/editorial/BSRiss48-fullmag_final-web_pages_Page_34.jpg
+    title: ""
+  - url: /assets/images/portfolio/editorial/BSRiss48-fullmag_final-web_pages_Page_35.jpg
+    image_path: /assets/images/portfolio/editorial/BSRiss48-fullmag_final-web_pages_Page_35.jpg
+    title: ""
+  - url: /assets/images/portfolio/editorial/DAndrea_feature_Spring2024_Page_1.jpg
+    image_path: /assets/images/portfolio/editorial/DAndrea_feature_Spring2024_Page_1.jpg
+    title: ""
+  - url: /assets/images/portfolio/editorial/msg_logo.jpg
+    image_path: /assets/images/portfolio/editorial/msg_logo.jpg
+    title: ""
+  - url: /assets/images/portfolio/editorial/wasted-issue1_cover.jpg
+    image_path: /assets/images/portfolio/editorial/wasted-issue1_cover.jpg
+    title: ""
 ---
-working on this at this very moment... (isn't that so funny)
+just a gallery of posters, logos, layouts, and things i've designed and illustrated!
+{% include gallery caption="I'm still slowly working on adding proper descriptions to each image in this gallery..." %}
