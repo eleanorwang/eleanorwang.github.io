@@ -17,5 +17,5 @@ currently the best way to reach me is by email at:
 eleanorwang [at] berkeley [dot] edu and if you missed it, [here's my cv](/assets/EleanorWang_CV_2026-02.pdf)
 {: style="text-align: justify;"}
 
-in the future i'd like to add various resources to this page! things like: applying to fellowships (NSF GRFP, Barry Goldwater Scholarship, etc.), applying to grad school, design and illustration learning resources, science writing/policy stuff, learning how to code for free, and more...
+in the future i'd like to add various resources to my site! things like: applying to fellowships (NSF GRFP, Barry Goldwater Scholarship, etc.), applying to grad school, design and illustration learning resources, science writing/policy stuff, learning how to code for free, and more...
 {: style="text-align: justify;"}
