@@ -23,4 +23,6 @@ header:
 #     image_path: assets/images/unsplash-gallery-image-3-th.jpg
 #     alt: "placeholder image 3"
 ---
-Soon this page will have miscellaneous examples of scientific diagrams, graphics, and data visualizations that I've made...
+Soon this page will have miscellaneous examples of scientific diagrams, graphics, and data visualizations that I've made... I am, as they say, suffering from success (I've made too many things and it is a bit hard to organize it all).
+
+But I've got lots of experience with InDesign, Illustrator, and Photoshop, and have dabbled in other programs before. If you want to know if I can do something specifically, just ask!
