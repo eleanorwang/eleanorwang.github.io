@@ -13,6 +13,9 @@ header:
 #   # - title: "Responsibilities"
 #   #   text: ""
 gallery:
+  - url: /assets/images/portfolio/sci-graphics/BSRiss49-bookreview_map.jpg
+    image_path: /assets/images/portfolio/sci-graphics/BSRiss49-bookreview_map.jpg
+    title: ""
   - url: /assets/images/portfolio/sci-graphics/BSRiss46-feature_vocal-tract.jpg
     image_path: /assets/images/portfolio/sci-graphics/BSRiss46-feature_vocal-tract_4x3.jpg
     title: "Diagram of the vocal tract. Illustrated digitally for a feature article in Issue 46 the Berkeley Science Review using Procreate. Article: 'Hey Siri, do I sound like a girl?' by Irian D'Andrea published on Oct 2,204. Available on berkeleysciencereview.com"
@@ -41,9 +44,6 @@ gallery:
     image_path: /assets/images/portfolio/sci-graphics/BSRiss48-feature_fig4.jpg
     title: ""
 ---
-Soon this page will have miscellaneous examples of scientific diagrams, graphics, and data visualizations that I've made... I am, as they say, suffering from success (I've made too many things and it is a bit hard to organize it all).
-Right now this page is just a compilation of miscellaneous examples of scientific diagrams, graphics, and data visualizations that I've made for different projects... I plan on showcasing them in a more organized form in the future, but I am, as some may say, suffering from success (I have so many projects that they've become quite difficult to document and organize).
+Right now this page is just a compilation of miscellaneous examples of scientific diagrams, graphics, and data visualizations that I've made for different projects... I plan on showcasing them in a more organized form in the future, but I am, as some may say, suffering from success (I have so many projects that they've become quite difficult to document and organize). But I've got lots of experience with InDesign, Illustrator, and Photoshop, and have dabbled in other programs before. If you want to know if I can do something specifically, just ask!
 {: style="text-align: justify;"}
-
-But I've got lots of experience with InDesign, Illustrator, and Photoshop, and have dabbled in other programs before. If you want to know if I can do something specifically, just ask!
 {% include gallery caption="again, please don't replicate, use, or sell my work!" %}
