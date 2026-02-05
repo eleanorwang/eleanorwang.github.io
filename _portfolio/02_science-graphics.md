@@ -13,8 +13,8 @@ header:
 #   # - title: "Responsibilities"
 #   #   text: ""
 gallery:
-  - url: /assets/images/portfolio/sci-graphics/BSRiss49-bookreview_map.jpg
-    image_path: /assets/images/portfolio/sci-graphics/BSRiss49-bookreview_map.jpg
+  - url: /assets/images/portfolio/sci-graphics/BSRiss44-feature_map.jpg
+    image_path: /assets/images/portfolio/sci-graphics/BSRiss44-feature_map.jpg
     title: ""
   - url: /assets/images/portfolio/sci-graphics/BSRiss44-feature_fig1.jpg
     image_path: /assets/images/portfolio/sci-graphics/BSRiss44-feature_fig1.jpg
@@ -28,6 +28,9 @@ gallery:
   - url: /assets/images/portfolio/sci-graphics/BSRiss44-feature_fig4.jpg
     image_path: /assets/images/portfolio/sci-graphics/BSRiss44-feature_fig4.jpg
     title: ""
+  - url: /assets/images/portfolio/sci-graphics/BSRiss46-feature_vocal-tract.jpg
+    image_path: /assets/images/portfolio/sci-graphics/BSRiss46-feature_vocal-tract.jpg
+    title: "Diagram of the vocal tract. Illustrated digitally for a feature article in Issue 46 the Berkeley Science Review using Procreate. Article: 'Hey Siri, do I sound like a girl?' by Irian D'Andrea published on Oct 2,204. Available on berkeleysciencereview.com"
   - url: /assets/images/portfolio/sci-graphics/BSRiss48-feature_fig1.jpg
     image_path: /assets/images/portfolio/sci-graphics/BSRiss48-feature_fig1.jpg
     title: ""
@@ -40,9 +43,9 @@ gallery:
   - url: /assets/images/portfolio/sci-graphics/BSRiss48-feature_fig4.jpg
     image_path: /assets/images/portfolio/sci-graphics/BSRiss48-feature_fig4.jpg
     title: ""
-  - url: /assets/images/portfolio/sci-graphics/BSRiss46-feature_vocal-tract.jpg
-    image_path: /assets/images/portfolio/sci-graphics/BSRiss46-feature_vocal-tract.jpg
-    title: "Diagram of the vocal tract. Illustrated digitally for a feature article in Issue 46 the Berkeley Science Review using Procreate. Article: 'Hey Siri, do I sound like a girl?' by Irian D'Andrea published on Oct 2,204. Available on berkeleysciencereview.com"
+  - url: /assets/images/portfolio/sci-graphics/BSRiss49-bookreview_map.jpg
+    image_path: /assets/images/portfolio/sci-graphics/BSRiss49-bookreview_map.jpg
+    title: ""
 ---
 Right now this page is just a compilation of miscellaneous examples of scientific diagrams, graphics, and data visualizations that I've made for different projects... I plan on showcasing them in a more organized form in the future, but I am, as some may say, suffering from success (I have so many projects that they've become quite difficult to document and organize). But I've got lots of experience with InDesign, Illustrator, and Photoshop, and have dabbled in other programs before. If you want to know if I can do something specifically, just ask!
 {: style="text-align: justify;"}
