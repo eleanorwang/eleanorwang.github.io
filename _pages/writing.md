@@ -7,7 +7,7 @@ permalink: /writing/
 ---
 
 The work on this page is primarily non-academic.
-For academic publications, see my [CV](../assets/EleanorWang_CV_2026-01.pdf).
+For academic publications, see my [CV](../assets/EleanorWang_CV_2026-02.pdf).
 If any of the links below don't work, please let me know so I can update them!
 
 ### [Berkeley Science Review](https://berkeleysciencereview.com)
